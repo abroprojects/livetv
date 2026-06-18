@@ -5,6 +5,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", RTB Go 2
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026", BTV BD Official
+http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", Zee Bangla Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", Zee Bangla Cinema SD-1
@@ -27,15 +29,42 @@ http://203.18.159.115/TSPORTS/tracks-v1a1/index.m3u8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", T Sports -3
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", T Sports -4
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD English
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
-
+#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports Hindi
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 #EXTINF:-1 group-title="FIFA World Cup 2026", PTV Sports -1
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", PTV Sports -2
 https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", PTV Sports -3
 http://premiumtvs.space/live/jen12345/Jen54321/89.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", PTV Sports -4
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 1 🇺🇸 USA 
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/12350.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 2 🇺🇸 USA
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/12351.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 3 🇺🇸 USA
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/12352.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 4 🇺🇸 USA
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/12353.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 5 🇺🇸 USA
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/12354.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", Caze Tv 🇧🇷 Brazil
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 1 🇨🇦 Canada
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/69660.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 2 🇨🇦 Canada
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/69659.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 3 🇨🇦 Canada
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/69658.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 4 🇨🇦 Canada
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/69657.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026", TSN 5 🇨🇦 Canada
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/69656.ts
 #EXTINF:-1 group-title="FIFA World Cup 2026", D Sports Spanish
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", Win Sports Brazil
