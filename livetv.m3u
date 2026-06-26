@@ -16,6 +16,8 @@ https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
 https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", Toffe Live 5
 https://kazimmt.ami.bd/playlist/TF/TF-4.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026", Toffe Live 6
+https://sm-monirul.top/tof/live/toffee6/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", BTV BD Official -2
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 
@@ -27,9 +29,11 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 group-title="FIFA World Cup 2026", Somoy TV (Sports) -3A
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026", Somoy TV (Sports) -4
+http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", T-Sports -4 (Ayna)
 https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8?nocache=1782338424207
-#EXTINF:-1 group-title="FIFA World Cup 2026", Somoy TV (Sports) -4
+#EXTINF:-1 group-title="FIFA World Cup 2026", Somoy TV (Sports) -5
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", T Sports -1
 http://203.18.159.115/TSPORTS/tracks-v1a1/index.m3u8
@@ -47,18 +51,15 @@ https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8?nocache=1782338424207
 https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", iScreen
 https://sm-monirul.top/ott/iscreen/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD English Test
-http://197.216.2.4:8082/LIVE/tracks-v1/index.fmp4.m3u8?token=4d7ed1b6253b9b50a05f81a047b32607ce134f71-d6bfc808cbfb5bd6d85b80e94996d8e4-1782503345-1782492545
+#EXTINF:-1 group-title="FIFA World Cup 2026", Bioscope 1
+http://sm-monirul.top/ott/bioscope/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026", Bioscope 2
+http://sm-monirul.top/ott/bioscope1/index.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD English
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD English -2
-http://197.216.2.4:8082/LIVE/tracks-v1/index.fmp4.m3u8?token=6ee302ea838861dc28e8c122da068c98bf9bd045-8b9f255677b15009ca065309b236575d-1782501946-1782491146
 #EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports Hindi
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 1
-http://197.216.2.4:8082/1LIVE/tracks-a1/index.fmp4.m3u8?token=e419b74d0dc8e674eeb7b40e14cedbaf55231176-166c4b84c653942f9df0483886f41d12-1782502135-1782491335
-#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD English -3
-http://197.216.2.4:8082/2LIVE/tracks-a1/index.fmp4.m3u8?token=4933775d741f4a04a030946617587f1b806f456e-76163835966a50f4d4bc56f08fff575d-1782502206-1782491406
 #EXTINF:-1 group-title="FIFA World Cup 2026", PTV Sports -1
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", PTV Sports -2
@@ -103,8 +104,6 @@ http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
 http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
 #EXTINF:-1 group-title="FIFA World Cup 2026", Fox 5 HD
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026", FS1 USA 4K
-https://pub-4aa1aaf3896e4dd0923f238800b68845.r2.dev/kickbd-bein4k/main.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", FS1 HD
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026", FS2 HD
@@ -137,7 +136,8 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 #EXTINF:-1 group-title="FIFA World Cup 2026", Zee Bangla Cinema SD-3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup 2026",
+#EXTINF:-1 group-title="FIFA World Cup 2026", Super Sports Extra 1
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 #EXTINF:-1 group-title="FIFA World Cup 2026",
 #EXTINF:-1 group-title="FIFA World Cup 2026",
 #EXTINF:-1 group-title="FIFA World Cup 2026",
